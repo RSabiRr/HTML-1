@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:  sans-serif;
+    background: rgb(197, 6, 6);
+}
+.test{
+        width: 250px;
+        
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+        background-color: white;
+
+}
+.test label{
+      
+    padding-right: 120px;
+    font-weight: bold;
+    background-color: white;
+    font-size: smaller;
+    
+}
+.test input[type="text"] {
+    border-block-color: black;
+    padding: 7px;
+}
+.em{
+    border-block-color: black;
+    padding: 7px;
+}
+.passtyp{
+    border-block-color: black;
+    padding: 7px;
+}
+
+.butt{
+    background-color: #026389;
+    border-radius: 10px;
+    height: 30px;
+    width: 30%;
+    margin-right: 49%;
+    border: 0;
+    color: wheat;
+}   
+#col{
+    padding-right: 80px;
+    margin-right: 10%;
+    font-size: 20px;
+    font-family: monospace;
+}

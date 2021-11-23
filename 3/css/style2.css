@@ -1,0 +1,52 @@
+.borders{
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    padding: 2px;
+}
+.borderleft{
+    border-left: 6px solid rgb(53, 88, 243);
+    background-color: rgb(133, 133, 243);
+    padding: 3px;
+}
+
+#reng .yasl{
+   color: #04ff00;
+}
+#reng .qirmizi{
+    color: red;
+}
+#reng .benovseyi{
+    color: fuchsia;
+}
+#reng .back{
+    color: red;
+    background-color: rgb(88, 105, 255);
+}
+#reng .sari{
+    color: gold;
+    background-color: rgb(126, 91, 86) ;
+}
+.text{
+    border: 2px solid rgb(0, 255, 0);
+    border-radius: 5px;
+    position: absolute;
+    left: 20%;
+    transform: translate(10%, 10%);
+    padding: 2%;
+    right: 40%;
+    
+}
+.text .size{
+    margin-top: 40px;
+    margin-left: 2px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.backcol{
+     text-align: center;
+    border-bottom:6px solid rgb(0, 255, 0);
+    background-color: rgb(128, 140, 255) ;
+    width: 90%;
+}
