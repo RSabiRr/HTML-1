@@ -1,0 +1,48 @@
+fieldset{
+    background-color: rgb(243, 243, 243);
+}
+
+form{
+    background: #ddddfd;
+    text-align: center;
+}
+h3{
+    padding-top: 20px;
+}
+.box{
+    margin-left: 18px;
+    width: 221px;
+    height: 32px;
+    border-style: inset;    
+}
+.box2{
+    border-style: inset;
+    margin-top: 20px;
+    margin-left: 19px;
+    width: 36%;
+    height: 32px;
+
+}
+.box3{
+    height: 30px;
+    width: 227px;
+    margin-top: 20px;
+    border-style: inset;
+    margin-left: 21px;
+}
+.box4{
+    margin-left: -199px;
+}
+.box5{
+    margin-left: -148px;
+}
+.box6{
+    margin-left: -69px;
+}
+.box7{
+    margin-right: 368px;
+    padding: 11px;
+    color: white;
+    background: #6464dff2;
+    border: 2px solid #6464dff2;
+}
